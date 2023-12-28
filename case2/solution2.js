@@ -57,3 +57,6 @@ const comments = [
 
 
   console.log(`Total komentar: ${countTotalComments(comments)}`)
+
+  //Soal ini sendiri adalah contoh manipulasi nested array, di mana untuk 
+  //menghitung jumlah atribut commentContent dilakukan fungsi rekursi

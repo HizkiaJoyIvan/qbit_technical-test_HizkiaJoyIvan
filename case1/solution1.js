@@ -83,4 +83,8 @@ console.log(`Total buah pada kantong import: ${totalImport}`)
 
 
 //4
-console.log("Soal ini menerapkan manipulasi array dari filtering, mapping")
+// Soal tersebut pada dasarnya adalah manipulasi array, di mana pada subsoal yang pertama
+// dilakukan mapping dengan melakukan filtering jika ada objek yang memiliki attribute yang sama dalam hal ini adalah fruitName
+// Untuk soal kedua, dilakukan filtering array sehingga bisa terlihat mana objek yang memiliki karakteristik yang sama
+// dalam hal ini adalah jenis kantong (atribut fruitType) yang terdiri dari LOCAL atau IMPORT
+// Untuk soal ketiga, dihitung jumlah buah yang ada pada kantong dengan menggunakan Array.length fungsi dari Javascript
