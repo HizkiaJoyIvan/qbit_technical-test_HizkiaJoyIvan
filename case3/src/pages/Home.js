@@ -4,11 +4,10 @@ import BottomBar from '../components/BottomBar'
 
 const Home = () => {
   return (
-    <>
         <div className='h-screen bg-slate-200'>
             <Navbar />
             <div className="w-[100%] flex flex-col gap-10 mt-20 h-[300%] bg-slate-200 p-5">
-                <div className="flex mx-10 justify-between items-center">
+                <div className="flex mx-10 justify-between items-center flex-col md:flex-row">
                     <div className="flex flex-col gap-5">
                         <h1 className='text-blue-800 text-5xl font-bold'>Harvesting Tomorrow, <br/>
                             Today with EcoHarvest
@@ -73,7 +72,6 @@ const Home = () => {
             </div>
             <BottomBar />
         </div>
-    </>
   )
 }
 

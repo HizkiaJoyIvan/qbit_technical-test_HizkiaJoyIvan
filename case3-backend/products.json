@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Farming Kit",
+    "description": "Kit pertanian pintar yang dilengkapi dengan sensor-sensor canggih untuk memonitor kondisi tanah, suhu udara, dan kelembaban. Memudahkan petani dalam mengelola tanaman secara presisi.",
+    "benefits": "Meningkatkan efisiensi pertanian, memaksimalkan hasil panen, dan mengurangi penggunaan sumber daya."
+  },
+  {
+    "id": 2,
+    "name": "Organic Fertilizer",
+    "description": "Pupuk organik yang diformulasikan khusus untuk meningkatkan kesuburan tanah secara alami. Terbuat dari bahan-bahan organik pilihan untuk tanaman yang sehat dan bebas pestisida.",
+    "benefits": "Mendukung pertanian berkelanjutan, meningkatkan kualitas tanah, dan hasil panen yang lebih berkualitas."
+  },
+  {
+    "id": 3,
+    "name": "Crop Monitoring App",
+    "description": "Aplikasi mobile yang memungkinkan petani memantau kondisi tanaman secara real-time, menerima peringatan dini, dan mendapatkan rekomendasi pemeliharaan tanaman.",
+    "benefits": "Memudahkan petani dalam pengelolaan pertanian, meningkatkan produktivitas, dan mengurangi kerugian tanaman."
+  },
+  {
+    "id": 4,
+    "name": "Vertical Farming System",
+    "description": "Sistem pertanian vertikal yang dapat diintegrasikan di dalam atau di luar ruangan. Cocok untuk daerah dengan lahan terbatas.",
+    "benefits": "Meningkatkan produksi tanaman dalam ruang yang terbatas, efisien dalam penggunaan lahan, dan meminimalkan dampak lingkungan."
+  },
+  {
+    "id": 5,
+    "name": "Eco-Friendly Pest Control",
+    "description": "Produk pengendalian hama ramah lingkungan berbasis predator alami dan teknologi canggih.",
+    "benefits": "Mengurangi penggunaan pestisida kimia, menjaga keseimbangan ekosistem pertanian, dan tanaman yang lebih sehat."
+  },
+  {
+    "id": 6,
+    "name": "Eco-Friendly Pest Control",
+    "description": "Produk pengendalian hama ramah lingkungan berbasis predator alami dan teknologi canggih.",
+    "benefits": "Mengurangi penggunaan pestisida kimia, menjaga keseimbangan ekosistem pertanian, dan tanaman yang lebih sehat."
+  }
+]
